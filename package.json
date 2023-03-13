@@ -48,7 +48,7 @@
 		"/public/build"
 	],
 	"dependencies": {
-		"@conform-to/react": "^0.4.0",
+		"@conform-to/react": "^0.6.0",
 		"@conform-to/zod": "^0.4.0",
 		"@prisma/client": "^4.8.0",
 		"@remix-run/netlify": "^1.12.0",
